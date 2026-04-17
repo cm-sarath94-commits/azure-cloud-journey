@@ -1,6 +1,6 @@
 # ☁️ Azure Cloud Journey — AZ-900 to AZ-104
 
-# Hi there, I'm [Sarath Mohanan]! 👋
+# Hi there, I'm Sarath Mohanan! 👋
 ## About Me 🚀
 
 > CCNA Certified Technical Support Engineer Learning Cloud Technologies.  
