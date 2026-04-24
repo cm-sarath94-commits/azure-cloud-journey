@@ -7,14 +7,21 @@
 > Documenting every hands-on lab publicly as I go.
 
 ## 🗺️ Certification Roadmap
-- [ ] AZ-900 — Azure Fundamentals *(in progress)*
+
+| Phase | Certification | Status |
+|-------|--------------|--------|
+| 1 | CCNA 200-301 | ✅ Completed |
+| 2 | AZ-900 Azure Fundamentals | 🔄 In Progress |
+| 3 | AZ-104 Azure Administrator | 🔜 Phase 2 |
 
 
 ## 📁 Projects
 
-| # | Project | Concepts Covered | Status |
-|---|---------|-----------------|--------|
-| 01 | Completed | Virtual Networking | ✅ |
+| # | Project | Services Used | Status | Live Demo |
+|---|---------|--------------|--------|-----------|
+| 01 | [Maritime Fleet VNet Infrastructure](02-networking/vnet-subnets-lab/README.md) | VNet, Subnets, NSG, Storage, Monitor | ✅ Done | - |
+| 02 | [Maritime Fleet Dashboard App](02-networking/fleet-dashboard-app/README.md) | App Service, Node.js, Express | ✅ Done | [Live](https://fleet-dashboard-sarath-edgyejauhxeefke4.southindia-01.azurewebsites.net/) |
+- 🌐 Live Projects: [Fleet Dashboard](https://fleet-dashboard-sarath-edgyejauhxeefke4.southindia-01.azurewebsites.net/)
 
 ## 🔗 Connect with Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/sarath-c-m15111994]
