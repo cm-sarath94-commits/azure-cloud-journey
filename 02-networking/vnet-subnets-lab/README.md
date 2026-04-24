@@ -113,22 +113,22 @@ shore-based fleet optimization application that:
 
 | # | Screenshot | Description |
 |---|-----------|-------------|
-| 01 | ![Resource Group](screenshots/01-resource-group.png) | RG-Fleet-Optimization |
-| 02 | ![VNet Overview](screenshots/02-vnet-overview.png) | VNet-Fleet-Shore |
-| 03 | ![Subnets](screenshots/03-vnet-subnets.png) | 5 subnets configured |
-| 04 | ![NSG List](screenshots/04-nsg-list.png) | 4 NSGs created |
-| 05 | ![NSG Association](screenshots/05-nsg-subnet-association.png) | NSGs linked to subnets |
-| 06 | ![NSG Gateway Rules](screenshots/06-nsg-gateway-rules.png) | Gateway security rules |
-| 07 | ![NSG WebAPI Rules](screenshots/07-nsg-webapi-rules.png) | WebAPI security rules |
-| 08 | ![NSG Database Rules](screenshots/08-nsg-database-rules.png) | Database security rules |
-| 09 | ![NSG Management Rules](screenshots/09-nsg-management-rules.png) | Management security rules |
-| 10 | ![Storage Account](screenshots/10-storage-account.png) | Fleet log storage |
-| 11 | ![Containers](screenshots/11-storage-containers.png) | 3 storage containers |
-| 12 | ![App Service](screenshots/12-app-service-overview.png) | Fleet dashboard |
-| 13 | ![App Running](screenshots/13-app-service-running.png) | Dashboard live |
-| 14 | ![Log Analytics](screenshots/14-log-analytics.png) | LAW-Fleet-Monitor |
-| 15 | ![Alert Rule](screenshots/15-monitor-alert.png) | Connectivity alert |
-| 16 | ![Action Group](screenshots/16-action-group.png) | Email notification |
+| 01 | ![Resource Group](Screenshots/01-resource-group.png) | RG-Fleet-Optimization |
+| 02 | ![VNet Overview](Screenshots/02-vnet-overview.png) | VNet-Fleet-Shore |
+| 03 | ![Subnets](Screenshots/03-vnet-subnets.png) | 5 subnets configured |
+| 04 | ![NSG List](Screenshots/04-nsg-list.png) | 4 NSGs created |
+| 05 | ![NSG Association](Screenshots/05-nsg-subnet-association.png) | NSGs linked to subnets |
+| 06 | ![NSG Gateway Rules](Screenshots/06-nsg-gateway-rules.png) | Gateway security rules |
+| 07 | ![NSG WebAPI Rules](Screenshots/07-nsg-webapi-rules.png) | WebAPI security rules |
+| 08 | ![NSG Database Rules](Screenshots/08-nsg-database-rules.png) | Database security rules |
+| 09 | ![NSG Management Rules](Screenshots/09-nsg-management-rules.png) | Management security rules |
+| 10 | ![Storage Account](Screenshots/10-storage-account.png) | Fleet log storage |
+| 11 | ![Containers](Screenshots/11-storage-containers.png) | 3 storage containers |
+| 12 | ![App Service](Screenshots/12-app-service-overview.png) | Fleet dashboard |
+| 13 | ![App Running](Screenshots/13-app-service-running.png) | Dashboard live |
+| 14 | ![Log Analytics](Screenshots/14-log-analytics.png) | LAW-Fleet-Monitor |
+| 15 | ![Alert Rule](Screenshots/15-monitor-alert.png) | Connectivity alert |
+| 16 | ![Action Group](Screenshots/16-action-group.png) | Email notification |
 
 ---
 
