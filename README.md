@@ -15,7 +15,7 @@
 | # | Project | Concepts Covered | Status |
 |---|---------|-----------------|--------|
 | 01 | Coming soon | Compute | 🔜 |
-| 02 | Coming soon | Networking | 🔜 |
+| 02 | Completed | Networking | ✅ |
 
 ## 🔗 Connect with Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/sarath-c-m15111994]
