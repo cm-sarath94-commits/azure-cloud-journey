@@ -1,3 +1,13 @@
+# Node.js
+node_modules/
+npm-debug.log
+*.log
+
+# VS Code
+.vscode/
+
+# Azure deployment
+.deployment
 # Local .terraform directories
 .terraform/
 
