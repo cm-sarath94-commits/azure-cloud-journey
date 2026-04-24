@@ -1,6 +1,9 @@
 # ☁️ Azure Cloud Journey — AZ-900 to AZ-104
 
-> CCNA Certified Network Engineer transitioning into Cloud.  
+# Hi there, I'm Sarath Mohanan! 👋
+## About Me 🚀
+
+> CCNA Certified Technical Support Engineer Learning Cloud Technologies.  
 > Documenting every hands-on lab publicly as I go.
 
 ## 🗺️ Certification Roadmap
@@ -11,9 +14,9 @@
 
 | # | Project | Concepts Covered | Status |
 |---|---------|-----------------|--------|
-| 01 | Coming soon | Compute | 🔜 |
-| 02 | Coming soon | Networking | 🔜 |
+| 01 | Completed | Virtual Networking | ✅ |
 
 ## 🔗 Connect with Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/sarath-c-m15111994]
-- 📍 Location: Kerala, India
+- 📧 Gmail: cm.sarath94@gmail.com
+- 📍 Location: India
