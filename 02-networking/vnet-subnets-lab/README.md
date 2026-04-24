@@ -156,19 +156,6 @@ shore-based fleet optimization application that:
 
 ---
 
-## 💰 Estimated Cost
-
-| Resource | Cost |
-|----------|------|
-| VNet + Subnets | $0.00 |
-| NSGs | $0.00 |
-| Storage Account (LRS) | ~$0.02/month |
-| App Service (Free F1) | $0.00 |
-| Log Analytics | $0.00 (under free limit) |
-| *Total* | *~$0.02/month* |
-
----
-
 ## 🔗 Related Posts
 - [LinkedIn](https://www.linkedin.com/in/sarath-c-m15111994)
 
