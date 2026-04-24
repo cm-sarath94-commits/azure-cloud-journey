@@ -1,0 +1,157 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #0a1628;
+    color: #ffffff;
+}
+
+/* Header */
+.header {
+    background-color: #0d2137;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #1a4a7a;
+}
+
+.header h1 {
+    font-size: 24px;
+    color: #4fc3f7;
+}
+
+.header p {
+    color: #90a4ae;
+    font-size: 13px;
+    margin-top: 4px;
+}
+
+.header-right {
+    display: flex;
+    gap: 20px;
+}
+
+.stat-box {
+    background-color: #1a3a5c;
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-align: center;
+    min-width: 80px;
+}
+
+.stat-box span {
+    font-size: 28px;
+    font-weight: bold;
+    color: #4fc3f7;
+    display: block;
+}
+
+.stat-box label {
+    font-size: 11px;
+    color: #90a4ae;
+    text-transform: uppercase;
+}
+
+.stat-box.online span { color: #66bb6a; }
+.stat-box.offline span { color: #ef5350; }
+
+/* Container */
+.container {
+    padding: 30px 40px;
+}
+
+.container h2 {
+    color: #4fc3f7;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+/* Table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #0d2137;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+thead {
+    background-color: #1a4a7a;
+}
+
+th {
+    padding: 14px 16px;
+    text-align: left;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #90a4ae;
+    letter-spacing: 1px;
+}
+
+td {
+    padding: 14px 16px;
+    border-bottom: 1px solid #1a3a5c;
+    font-size: 14px;
+}
+
+tr:hover {
+    background-color: #1a3a5c;
+}
+
+/* Status Badge */
+.badge {
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.badge.online {
+    background-color: #1b5e20;
+    color: #66bb6a;
+}
+
+.badge.offline {
+    background-color: #b71c1c;
+    color: #ef9a9a;
+}
+
+/* Connection Type */
+.connection {
+    font-size: 12px;
+    padding: 3px 10px;
+    border-radius: 4px;
+    background-color: #1a3a5c;
+    color: #4fc3f7;
+}
+
+/* Fuel Bar */
+.fuel-bar {
+    background-color: #1a3a5c;
+    border-radius: 10px;
+    height: 8px;
+    width: 100px;
+    overflow: hidden;
+}
+
+.fuel-fill {
+    height: 100%;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+}
+
+.fuel-high { background-color: #66bb6a; }
+.fuel-medium { background-color: #ffa726; }
+.fuel-low { background-color: #ef5350; }
+
+.fuel-text {
+    font-size: 12px;
+    color: #90a4ae;
+    margin-top: 3px;
+}

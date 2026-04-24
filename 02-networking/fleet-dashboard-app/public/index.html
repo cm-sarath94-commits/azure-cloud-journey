@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maritime Fleet Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <div class="header">
+        <div class="header-left">
+            <h1>⚓ Maritime Fleet Dashboard</h1>
+            <p>Shore-based Fleet Monitoring System</p>
+        </div>
+        <div class="header-right">
+            <div class="stat-box">
+                <span id="total-vessels">0</span>
+                <label>Total Vessels</label>
+            </div>
+            <div class="stat-box online">
+                <span id="online-vessels">0</span>
+                <label>Online</label>
+            </div>
+            <div class="stat-box offline">
+                <span id="offline-vessels">0</span>
+                <label>Offline</label>
+            </div>
+        </div>
+    </div>
+
+    <!-- Fleet Table -->
+    <div class="container">
+        <h2>Fleet Status</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Vessel Name</th>
+                    <th>Status</th>
+                    <th>Connection</th>
+                    <th>Latitude</th>
+                    <th>Longitude</th>
+                    <th>Fuel Level</th>
+                    <th>Last Updated</th>
+                </tr>
+            </thead>
+            <tbody id="vessel-table">
+                <!-- Vessel rows inserted here by JavaScript -->
+            </tbody>
+        </table>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

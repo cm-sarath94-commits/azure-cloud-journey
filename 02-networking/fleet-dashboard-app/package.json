@@ -1,0 +1,15 @@
+{
+  "name": "fleet-dashboard-app",
+  "version": "1.0.0",
+  "description": "Maritime Fleet Monitoring Dashboard",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Sarath Mohanan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
