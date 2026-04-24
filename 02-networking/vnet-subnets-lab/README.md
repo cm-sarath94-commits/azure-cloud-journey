@@ -1,4 +1,4 @@
-# 🚢 Maritime Cloud Fleet Optimization System
+# 🚢 Maritime Fleet Optimization System in Cloud
 ## Azure Virtual Network Infrastructure Lab
 
 ---
