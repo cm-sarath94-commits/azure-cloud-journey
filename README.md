@@ -14,10 +14,9 @@
 
 | # | Project | Concepts Covered | Status |
 |---|---------|-----------------|--------|
-| 01 | Coming soon | Compute | 🔜 |
-| 02 | Completed | Networking | ✅ |
+| 01 | Completed | Virtual Networking | ✅ |
 
 ## 🔗 Connect with Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/sarath-c-m15111994]
 - 📧 Gmail: cm.sarath94@gmail.com
-- 📍 Location: Kerala, India
+- 📍 Location: India
