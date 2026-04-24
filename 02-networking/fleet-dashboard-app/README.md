@@ -59,17 +59,6 @@ on Microsoft Azure to simulate that shore monitoring capability.
 
 ---
 
-## 🗂️ Project Structure
-fleet-dashboard-app/
-├── app.js              ← Node.js Express server
-├── package.json        ← App configuration
-└── public/
-├── index.html      ← Dashboard UI
-├── style.css       ← Styling
-└── app.js          ← Frontend JavaScript
-
----
-
 ## 🛠️ How to Run Locally
 
 ### Prerequisites
