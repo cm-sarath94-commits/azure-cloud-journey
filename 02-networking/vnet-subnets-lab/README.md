@@ -113,7 +113,7 @@ shore-based fleet optimization application that:
 
 | # | Screenshot | Description |
 |---|-----------|-------------|
-| 01 | ![Resource Group](Screenshots/01-resource-group.png) | RG-Fleet-Optimization |
+| 01 | ![Resource Group](screenshots/01-resource-group.png) | RG-Fleet-Optimization |
 | 02 | ![VNet Overview](screenshots/02-vnet-overview.png) | VNet-Fleet-Shore |
 | 03 | ![Subnets](screenshots/03-vnet-subnets.png) | 5 subnets configured |
 | 04 | ![NSG List](screenshots/04-nsg-list.png) | 4 NSGs created |
