@@ -19,25 +19,6 @@ shore-based fleet optimization application that:
 
 ---
 
-## 🏗️ Architecture
-VESSELS (At Sea)                    SHORE (Azure Cloud)
-─────────────────                   ──────────────────────────
-Ship 1 ──┐                         ┌─── Subnet-Gateway (10.0.1.0/24)
-         │  VSAT/Starlink          │    Receives vessel connections
-Ship 2 ──┼──────────────────────►  │
-         │  Encrypted Tunnel       ├─── Subnet-WebAPI (10.0.2.0/24)
-Ship 3 ──┘                         │    Fleet Dashboard (App Service)
-                                   │
-                                   ├─── Subnet-Processing (10.0.3.0/24)
-                                   │    Data Processing Layer
-                                   │
-                                   ├─── Subnet-Database (10.0.4.0/24)
-                                   │    Fleet Data Storage
-                                   │
-                                   └─── Subnet-Management (10.0.5.0/24)
-                                        Monitoring & Admin
----
-
 ## ⚙️ Azure Services Used
 
 | Service | Purpose |
