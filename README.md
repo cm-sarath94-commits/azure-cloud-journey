@@ -21,6 +21,7 @@
 |---|---------|--------------|--------|-----------|
 | 01 | [Maritime Fleet VNet Infrastructure](02-networking/vnet-subnets-lab/README.md) | VNet, Subnets, NSG, Storage, Monitor | ✅ Done | - |
 | 02 | [Maritime Fleet Dashboard App](02-networking/fleet-dashboard-app/README.md) | App Service, Node.js, Express | ✅ Done | [Live](https://fleet-dashboard-sarath-edgyejauhxeefke4.southindia-01.azurewebsites.net/) |
+| 03 | [Windows VM + IIS Web Server](03-compute/windows-vm-iis-lab/README.md) | VM, IIS, NSG, Public IP | ✅ Done | - |
 
 ## 🔗 Connect with Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/sarath-c-m15111994]
