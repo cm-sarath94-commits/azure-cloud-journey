@@ -31,7 +31,7 @@ NSG-Management (Allow HTTP port 80)
 Subnet-Management (10.0.5.0/24)
 │
 ▼
-VM-Fleet-Server (Windows Server 2022)
+VM-Fleet-Server (Windows Server 2025)
 │
 ▼
 IIS Web Server (localhost:80)
